@@ -96,7 +96,7 @@ const VideoTrimmer = () => {
         backgroundRepeat: 'no-repeat',
       }}
     >
-      <div className="bg-purple-200 p-8 rounded-lg shadow-lg w-full max-w-4xl">
+      <div className="bg-white   bg-opacity-90 p-8 rounded-lg shadow-lg w-full max-w-4xl">
         <h1 className="text-4xl font-extrabold text-gray-800 text-center mb-6">
           🎬 Video <span className="text-indigo-500">Trimmer</span>
         </h1>
